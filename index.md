@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Whoami
 feature_text: |
   ## Baltej Giri
   Welcome to my blogpost where I showcase my unique journey to be a Computer Networking Expert.
