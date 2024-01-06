@@ -5,8 +5,6 @@ categories:
 feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 
-## Baltej Giri
-
 ### Summary
 Highly skilled and dynamic IT Professional, bringing forth the ability to effectively manage and oversee
 optimal IT Operations for organizations. Adept in setting up devices and network protocols and experienced
@@ -48,6 +46,7 @@ knowledge of relevant technologies.
 - Supported clients with EMR software customization, technical aspects like scanning, faxing, other programs integrations.
 - Assisted clinic’s IT personnel with SQL database migration, consulting on hardware recommendations, software configurations on server 2012R2, 2016 and 2019 OS.
 - Performed troubleshooting issues with Citrix StoreFront for hosted servers on windows and macOS and escalated major issues to Citrix administrator team.
+  
 ### Professional Certifications
 - In progress, Cisco Certified Network Associate (CCNA 200-301).
 - Certified Microsoft Azure Fundamentals (AZ-900).
@@ -56,18 +55,22 @@ knowledge of relevant technologies.
 
 ### Skills
 
-#### Networking
+##### Networking
 - TCP/IP Networking with Layer 2 and 3 Technologies; Switching, VLAN, Tagging, Queuing, Traffic shaping, Port monitoring, STP and MPLS.
 - Routing Protocols – RIP, Static, OSPF and EIGRP, BGP.
-#### Systems & Cloud
+  
+##### Systems & Cloud
 - Imaging SCCM, Exchange, Office 365, JAMF MDM Administration, Intune Device Management.
 - Server 2019, 2016, 2008R2, Cloud Computing, Networking and Storage.
-#### Security
+  
+##### Security
 - Network Security using Firewalls, and VPNs, IDS, IPS, Next Generation Firewall.
-#### Linux
+
+##### Linux
 - OS Installation and Samba File share.
 - Basic Shell scripting and VIM Editor.
-#### Ticketing and Documentation
+  
+##### Ticketing and Documentation
 - Jira, ServiceNow, Salesforce, Confluence and, Microsoft Visio.
 
 ### Education
