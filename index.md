@@ -1,13 +1,14 @@
 ---
-title: Whoami
+title: Home
 feature_text: |
-  ## Baltej Giri
   Welcome to my blogpost where I showcase my unique journey to be a Computer Networking Expert.
 feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "Myself Baltej Giri and I am born and raise in Northern India. Right after completing High School, I moved to New Zealand to pursue higher education. I and my wife both migrated to Canada in 2016 and landed in beautiful community called Okanagan Valley in British Columbia."
----
+excerpt: "hi"
 
-I am enthusiastic about all things regarding computers and networks. I have five years of experience in Information Technology with excellent communication skills.
+---
+### Whoami
+
+Myself Baltej Giri and I am born and raise in Northern India. Right after completing High School, I moved to New Zealand to pursue higher education. I and my wife both migrated to Canada in 2016 and landed in beautiful community called Okanagan Valley in British Columbia.I am enthusiastic about all things regarding computers and networks. I have five years of experience in Information Technology with excellent communication skills.
 
 ### Professional
 
