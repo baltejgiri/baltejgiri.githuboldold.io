@@ -4,7 +4,7 @@ categories:
 - General
 feature_image: "https://picsum.photos/2560/600?image=872"
 ---
-
+## Baltej Giri
 ### Summary
 Highly skilled and dynamic IT Professional, bringing forth the ability to effectively manage and oversee
 optimal IT Operations for organizations. Adept in setting up devices and network protocols and experienced
@@ -12,7 +12,7 @@ in managing the functionality of systems. Resourceful, and committed to continua
 knowledge of relevant technologies.
 
 ### Experience
-##### Shaw Communications / Rogers Communication Shaw 2021 - Current
+##### Rogers Communication Shaw 2021 - Current
 ###### Network Analyst
 - Analyzed and monitored network performance for Layer 2 and Layer 3 services like Fiber Gateway, VPLS, EVPLS, Wavelength and, SD-WAN.
 - Troubleshoot degraded issues by examining device (RAD, Nokia, Cisco, Fujitsu) logs, configuration and, routes of MPLS routers.
