@@ -1,9 +1,4 @@
 title: Resume
-feature_text: |
-  Brief Overview of my professional resume
-feature_image: "https://picsum.photos/2560/600?image=873"
-excerpt: "A demo of Markdown and HTML includes"
-aside: true
 ---
 
 # Baltej Giri
