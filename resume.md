@@ -1,5 +1,6 @@
+--
 title: Resume
----
+--
 
 # Baltej Giri
 
@@ -33,9 +34,3 @@ Cisco Meraki products.
 - Assisted clients with cloud-based VoIP phone configurations, call flows and call quality issues.
 - Coordinated with Network engineering team for Voice and Data issues, Cisco TAC support.
 - Consultant with Client’s Sales Engineers, IT Manager’s to provide custom infrastructure solutions.
-
-#### Heading 4
-
-##### Heading 5
-
-###### Heading 6
