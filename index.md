@@ -1,10 +1,9 @@
 ---
-title: Home
+#title: Home
 feature_text: |
   Welcome to my blogpost where I showcase my unique journey to be a Computer Networking Expert.
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "hi"
-
 ---
 ### Whoami
 
